@@ -12,7 +12,7 @@ namespace BirthdayGift.Pages
 
         public void OnGet()
         {
-            Message = "Your application description page.";
+            Message = "To get BirthDay Gift <a href=''>Click Here</a>";
         }
     }
 }
